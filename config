@@ -1,0 +1,5 @@
+Host vm
+   User username_goes_here
+   HostName ip_goes_here
+   IdentityFile ~/.ssh/id_ed25519
+   LocalForward 9999 localhost:8888
